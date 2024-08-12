@@ -3,6 +3,8 @@ frame_rate = 30;
 sh_size = 7
 sh_n = 6
 
+console.log("TEEEEEST")
+
 function setup() {
   createCanvas(800, 800);
   frameRate(frame_rate);
